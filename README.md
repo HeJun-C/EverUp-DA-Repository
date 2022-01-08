@@ -1,2 +1,2 @@
 # EverUp-DA-Repository
-This is for my class
+This Repository Is For My EverUp Micro Credential Data Analysis Computer Science Track Class
